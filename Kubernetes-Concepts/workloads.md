@@ -1,5 +1,7 @@
 # **Workloads:**
 
+![k8s-objects](../Images/k8s-workloads.svg)
+
 In Kubernetes, workloads refer to applications running on the cluster. Different workload types cater to various application needs and deployment strategies.
 
 - **`Pods`:**

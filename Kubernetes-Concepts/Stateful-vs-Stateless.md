@@ -1,5 +1,7 @@
 # **Stateless vs Stateful Sets:**
 
+![stateful-stateless](../Images/stateful-stateless.png)
+
 ### **`Stateless Applications:`**
 
 A stateless application does not retain any session information or data about its users between different reqeusts. Each request from a client to the server is treated as an independent transaction, unrelated to any previous requests.

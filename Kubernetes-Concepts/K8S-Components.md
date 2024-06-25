@@ -1,5 +1,7 @@
 # **Kubernetes Components:**
 
+![eks-components](../Images/k8s-components.png)
+
 -   A Kubernets Cluster consists of a set of worker machines, called nodes, that run containerized applications.
 - Each cluster has at least one worker node.
 - The worker node(s) host the Pods that are the components of the application workload.

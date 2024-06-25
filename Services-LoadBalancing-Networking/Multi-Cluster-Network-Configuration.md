@@ -1,5 +1,7 @@
 # **Multi-Cluster Network Configuration:**
 
+![multi-cluster-network](../Images/multi-regional-cluster.jpg)
+
 ### **What is Multi-Cluster Network Configuration:**
 
 - Multi-Cluster Network Configuration refers to the setup allows communication between multiple Kubernetes Clusters.

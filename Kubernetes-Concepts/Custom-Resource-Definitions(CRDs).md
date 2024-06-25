@@ -1,5 +1,7 @@
 # **Custom Resource Definitions(CRDs):**
 
+![crds](../Images/CRDs.png)
+
 - Custom Resource Definitions(CRDs) are a kubernetes feature that 
 allows users to create their own custom resources.
 - These custom resources extend the Kubernetes API and enable users to define and manage new types of objects beyond the built-in Kubernetes objects (like pods, services and deployments).
